@@ -1,39 +1,29 @@
 /* CSS Document */
-body{		
-background-color: black}
-h1{		
-color: grey;		
-font-size: 45px;	
-text-align: center;}
-h2{		
-color: yellow;		
-font-size: 40px;	
-text-align: left;}
-h3{		color: orange;		
-font-size: 30PX;		
-text-align: left;}
-p.one{		
-color: purple;		
-font-size: 22px;		
-border-style: double;		
-border-width: thick;}
-p.two{		color: green;		
-font-size: 15px;	
-border-style: dotted;		
-border-width: 5px;}
-p.three{		
-color: pink;		
-font-size: 15px;		
-border-style: solid;		
-border-width: 1px;}
-p.four{		
-color: green;		
-font-size: 15px;		
-border-style: dotted;		
-border-width: 5px;}
-p.five{		
-color: pink;		
-font-size: 15px;		
-border-style: solid;		
-border-width: 1px;}
-p.six{		color: green;		font-size: 15px;		border-style: dotted;		border-width: 5px;}
+body{
+		background-color: pink
+}
+h1{
+		color: tomato;
+		font-size: 40px;
+		text-align: center;
+		border-style: double;
+		border-width: thick;
+}
+h3{
+		color: slateblue;
+		font-size: 25PX;
+		text-align: center;
+		border-style: solid;
+		border-width: 1px;
+}
+		table{	color: purple;
+}
+table, th, td{
+  		border: 1px solid orange;
+}
+p.one{
+		color: purple;
+		font-size: 18px;
+		border-style: dotted;
+		border-width: 5px;
+}

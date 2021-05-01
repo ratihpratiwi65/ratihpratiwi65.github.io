@@ -1,16 +1,16 @@
 /* CSS Document */
 body{
-		background-color: pink
+		background-color: orange
 }
 h1{
-		color: tomato;
+		color: yellow;
 		font-size: 40px;
 		text-align: center;
 		border-style: double;
 		border-width: thick;
 }
 h3{
-		color: slateblue;
+		color: blue;
 		font-size: 25PX;
 		text-align: center;
 		border-style: solid;
@@ -19,10 +19,10 @@ h3{
 		table{	color: purple;
 }
 table, th, td{
-  		border: 1px solid orange;
+  		border: 1px solid purple;
 }
 p.one{
-		color: purple;
+		color: tomato;
 		font-size: 18px;
 		border-style: dotted;
 		border-width: 5px;
